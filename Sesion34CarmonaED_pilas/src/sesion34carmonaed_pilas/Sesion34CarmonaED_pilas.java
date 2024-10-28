@@ -27,6 +27,7 @@ public class Sesion34CarmonaED_pilas {
         pilaCarmona.push(90);
         
         JOptionPane.showMessageDialog(null, "Datos en la pila ordenada es: \n"+pilaCarmona);
+        JOptionPane.showMessageDialog(null,"Autor: Carmona");
     }
     
 }
